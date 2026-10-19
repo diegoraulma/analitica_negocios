@@ -11,8 +11,9 @@ env/
 # Configuración local de Streamlit
 .streamlit/
 
-# Directorios de modelos y artefactos
-modelo_nc/
+# Modelos: excluir todo en modelo_nc excepto modelo_nc_mes_siguiente_v2.joblib
+modelo_nc/*
+!modelo_nc/modelo_nc_mes_siguiente_v2.joblib
 
 # Recursos visuales
 recursos_visuales/
