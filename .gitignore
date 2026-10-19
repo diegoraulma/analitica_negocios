@@ -1,0 +1,32 @@
+# Bytecode y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Configuración local de Streamlit
+.streamlit/
+
+# Directorios de modelos y artefactos
+modelo_nc/
+
+# Recursos visuales
+recursos_visuales/
+
+# Notebooks de Jupyter y checkpoints
+Modelo_NC_mes_siguiente.ipynb
+.ipynb_checkpoints/
+
+# Archivos de datos específicos y pesados
+BASE_NC_PASO7_20261007_142454.xlsx
+BASE_NC_PASO7_20261007_142454_CONSOLIDADO.parquet
+*.xlsx
+*.parquet
+
+# Logs y variables de entorno
+*.log
+.env

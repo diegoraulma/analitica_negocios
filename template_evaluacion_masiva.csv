@@ -1,0 +1,4 @@
+﻿cliente,n_nc_1m,n_nc_3m,n_nc_6m,n_nc_hist,monto_1m,monto_3m,monto_6m,monto_hist,meses_con_nc_6m,meses_desde_ultima,antiguedad_meses,monto_prom_nota,nc_lag1,nc_lag2,nc_lag3,nc_lag5,nc_lag11,n_nc_12m,frac_meses_con_nc,tendencia_3v3,delegacion,clasificacion,transaccion,tipo_servicio,motivo_frec,area_frec,mes_objetivo
+CLI-00101,2,4,6,18,1250.5,3400.0,5800.0,14500.0,4,0.0,24.0,805.55,1,1,0,1,0,8,0.5,2,DELEGACION LIMA,NORMAL,Recurrente,ALARMAS,DESCUENTO POR ITEM,ATC,11
+CLI-00102,0,1,1,3,0.0,420.0,420.0,1200.0,1,2.0,18.0,400.0,0,1,0,0,0,2,0.16,1,DELEGACION AREQUIPA,ESTRATEGICO,Recurrente,GPS,DISMINUCIÓN EN EL VALOR,COBRANZAS,11
+CLI-00103,0,0,0,1,0.0,0.0,0.0,150.0,0,14.0,36.0,150.0,0,0,0,0,0,0,0.03,0,DELEGACION TRUJILLO,NORMAL,Adicionales,ALARMAS,ANULACIÓN DE LA OPERACIÓN,RETER,11
